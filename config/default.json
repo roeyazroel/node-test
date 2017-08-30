@@ -1,0 +1,17 @@
+{
+    "WikiMedia": {
+        "colimit": 50,
+        "ggslimit": 50,
+        "ggsradius": 10000,
+        "pilimit": 20,
+        "pithumbsize": 144
+    },
+    "geocode": {
+        "provider": "google",
+        "httpAdapter": "https"
+    },
+    "auth": {
+        "user": "admin",
+        "password": "admin"
+    }
+}
